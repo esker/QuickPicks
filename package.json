@@ -1,5 +1,5 @@
 {
-  "name": "quick picks",
+  "name": "meteorReactPickum",
   "version": "0.1",
   "description": "NFL quick picks",
   "main": "index.js",
@@ -15,9 +15,9 @@
   "homepage": "https://github.com/esker/QuickPicks",
   "dependencies": {
     "classnames": "^2.2.5",
-    "history": "^3.0.0",
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0",
-    "react-router": "^2.6.1"
+    "history": "^4.5.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-router": "^3.0.0"
   }
 }
